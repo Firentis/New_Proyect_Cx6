@@ -1,0 +1,42 @@
+# Avoid accidental upload of the Sketch and Figma design files
+#####################################################
+## Please do not remove lines 5 and 6 - thanks! 🙂 ##
+#####################################################
+*.sketch
+*.fig
+￼ CSS GRID en 10 minutos (DESDE CERO).
+¡APRENDE CSS EN 10 MINUTOS! Introdúcete al mundo de CSS GRDI & crea tu primer PROYECTO con CSS GRID, desde cero en 10 minutos.￼ ¿Necesitas un Hosting y Domi...
+youtube.com
+https://www.youtube.com/watch?v=QcYz949d8rM
+9:00 PM
+￼
+You
+Grupo CX6. Desarrollo web Front-end
+Friday
+docs.google.com
+https://docs.google.com/document/d/1NhMzq-PzheREU7u225tgUrTLbz_fbxPWYWEZluSpOp4/edit?tab=t.0
+docs.google.com
+https://docs.google.com/document/d/1NhMzq-PzheREU7u225tgUrTLbz_fbxPWYWEZluSpOp4/edit?tab=t.0
+
+
+
+documentacion 22/11/24
+9:00 PM
+￼
+You
+Grupo CX6. Desarrollo web Front-end
+Friday
+￼
+Frontend Mentor | News homepage coding challenge
+This news homepage will be an excellent opportunity to practice your CSS Grid skills. There will be lots of tricky decisions to make and plenty of learning opportunities!
+www.frontendmentor.io
+https://www.frontendmentor.io/challenges/news-homepage-
+# Avoid accidental XD upload if you convert the design file
+###############################################
+## Please do not remove line 12 - thanks! 🙂 ##
+###############################################
+*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+.prettierignore
